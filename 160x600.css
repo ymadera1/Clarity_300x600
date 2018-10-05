@@ -1,0 +1,98 @@
+body.show-isi #animation,body.show-isi 
+
+#animation,a{cursor:pointer}
+#above-isi,div{position:absolute}
+#isi,a,body{color:#666}
+body{font-family:Arial,sans-serif;margin:0;font-size:10px}
+
+body.show-isi #wrapper{border-width:0;overflow:visible}
+
+a{text-decoration:underline}
+
+
+
+
+.divCommon{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 160px;
+    height: 600px;
+}
+
+
+
+.txt_1 {background: url(logo1.png) no-repeat;
+	opacity:0;
+}
+
+.txt_3 {background: url(cta.svg) no-repeat;
+	opacity:0;
+}
+.txt_5 {background: url(t5.svg) no-repeat;
+	opacity:0;
+}
+
+.footer_1{
+	margin-top:0px;
+	text-align:left;
+	font-size:7pt;
+	margin-left:0px;
+	margin-bottom:0px;
+	opacity:0;
+	}
+	
+	
+#frm1Footer1{
+	
+    top: 80px;
+    left: 420px;
+	height:100px;
+	
+}
+
+
+
+
+
+
+
+
+#frm1Txt1{
+    top: 10px;
+    left: 10px;
+}
+
+
+
+#frm1Txt3{
+    top: 30px;
+    left: 10px;
+	width:400px;
+}
+
+#frm1Txt5{
+	
+    top: 10px;
+    left: 10px;
+	height:60px;
+}
+
+
+
+
+#wrapper{
+	cursor: pointer;
+	width:158px;
+	height:598px;
+	border:1px solid #666;
+	overflow:hidden;
+	background:#ebf4f9
+}
+
+
+
+
+
+
+
